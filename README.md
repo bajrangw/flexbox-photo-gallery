@@ -5,7 +5,7 @@ It demonstrates how to effectively use the Flexbox layout model to build a clean
 
 ## 🚀 Live Demo
 
-👉 [View Gallery on GitHub Pages](https://bajrangw.github.io/flexbox-photo-gallery)  
+👉 [View Gallery on GitHub Pages](https://bajrangw.github.io/flexbox-photo-gallery/)  
 
 
 ## 📂 Project Structure
